@@ -25,7 +25,6 @@ public class primeNO {
             }
      
             
-
     }
 return 1;
     

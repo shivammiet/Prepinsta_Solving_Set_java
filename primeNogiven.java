@@ -16,6 +16,12 @@ public class primeNogiven {
         
 
     
+    private static char[] primenumberr() {
+        return null;
+    }
+
+
+
     public static int primeNumber(int n){
         if(n==0 || n==1){
            return 0;
@@ -32,7 +38,7 @@ return 1;
     
 }
     }
-    public static int primenumberr(int n1,int n2){
+    public static void primenumberr(int n1,int n2){
         for(int i = n1; i <=n2; i++){
 
         }
